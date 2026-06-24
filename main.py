@@ -7,7 +7,7 @@ import base64
 # URL de l'API FastAPI
 API_URL = "http://127.0.0.1:8000/predire"
 
-# Définir la fonction principale de l'application Streamlit
+# je souhaite  Définir la véritable fonction principale de l'application Streamlit pour tester mon projet
 def main():
     st.title("Prédiction des Maladies Cardiaques")
     st.write("Cette application prédit la probabilité d'une maladie cardiaque basée sur vos entrées.")
